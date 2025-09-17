@@ -1,2 +1,60 @@
 node_modules
 .env.local
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Build output
+/dist/
+/build/
+
+# Vite
+.vite/
+vite.svg
+
+# TypeScript
+*.tsbuildinfo
+
+# Testing
+coverage/
+.nyc_output/
+
+# Env files
+.env
+.env.*
+!.env.example
+
+# Cache
+.cache/
+.parcel-cache/
+.tmp/
+.tmp*/
+
+# Package managers
+.pnp/
+.pnp.cjs
+.pnpm-store/
+
+# IDE/editor
+.vscode/
+.idea/
+*.sw?
+*~
+.DS_Store
+Thumbs.db
+
+# Storybook
+.storybook-out/
+out/
+
+# Misc
+.eslintcache
+stylelintcache
+*.local
+
+# OS
+Icon?
