@@ -1,0 +1,24 @@
+{
+  "name": "jal-drishti",
+  "version": "1.0.0",
+  "description": "An Webapp that enables users/authorities to compute, visualize, and act upon heavy metal pollution indices, translating complex data into actionable public insights.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ankushkhakale/Jal-Drishti.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ankushkhakale/Jal-Drishti/issues"
+  },
+  "homepage": "https://github.com/ankushkhakale/Jal-Drishti#readme",
+  "dependencies": {
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1"
+  }
+}
